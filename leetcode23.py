@@ -20,6 +20,4 @@ class Solution:
             #此时cur仍然是head：1那应该让cur指向1啊我草你妈的为什么要换成2马上不就要进新的节点了吗
             #哦原来是你要注意啊位置是不变的只是动箭头，这个时候就要互换2和3之间的箭头了
             cur = nxt
-        return prev 
-            
-            
+        return prev
